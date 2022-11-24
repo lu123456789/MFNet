@@ -4,7 +4,7 @@ This project contains the Pytorch model for the proposed MFNet: http://dx.doi.or
 pdf: https://ieeexplore.ieee.org/document/9839297 
 
 ## **Citation**  
-Please consider citing the FRNet if it's helpful for your research.  
+Please consider citing the MFNet if it's helpful for your research.  
 
 @ARTICLE{9839297,
   author={Lu, Mengxu and Chen, Zhenxue and Liu, Chengyun and Ma, Sile and Cai, Lei and Qin, Hao},
