@@ -263,7 +263,7 @@ if __name__ == '__main__':
     t_start = time.time()
     iteration = 5
     for _ in range(iteration):
-        img = torch.randn(2, 3, 64, 64)
+        img = torch.randn(2, 3, 256, 512)
         model = MFNet(11)
         outputs = model(img)
         # print(outputs.size())
